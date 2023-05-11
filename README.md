@@ -18,3 +18,4 @@ Example
 ```
 
 import the library via esmodule or add via script tag. To use the smalled file, use the minified version.
+Thanks
