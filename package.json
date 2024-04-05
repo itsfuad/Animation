@@ -1,6 +1,6 @@
 {
   "name": "@itsfuad/html-animation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "HTMLElement in-out animation",
   "main": "animation.js",
   "publishConfig": {
@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/itsfuad/Animation/issues"
   },
-  "homepage": "https://github.com/itsfuad/Animation#readme"
+  "homepage": "https://github.com/itsfuad/Animation#readme",
+  "devDependencies": {
+    "typescript": "^5.4.4"
+  }
 }
